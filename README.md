@@ -1,2 +1,2 @@
-# abstract-board-games
+# Abstract board games
 Build your own abstract board games
